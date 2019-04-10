@@ -1,0 +1,50 @@
+Unit ID, Name, Health
+54926fcb-934b-4869-af61-4ebfbf7a2013,Clubber,60
+4845d54a-8fd7-49d2-b2b0-3e73005c9893,Protector,50
+eb2ab05a-aad8-49bd-85a5-bb7662eb5618,Spear Thrower,50
+d3b99ef3-7a37-41f2-b67e-a4900e1bb5a4,Stoner,50
+9f3fb46d-07d9-43ba-ab54-aa401aa88d5e,Bone Mage,120
+2ca7eb07-13ae-4230-af66-7e6d9d018664,Chieftain,200
+bd8472cd-5c2f-43c3-a8d1-e5400512255d,Mammoth,3000
+8d0c7f5c-78a0-4cc0-ac5c-ab7f6ff74978,Halfling,70
+5ec3168f-6676-4d2a-962a-7651b9aa6078,Farmer,60
+8f70b9ae-dc45-47c5-954e-22a415c747df,Hay baler,80
+611c3096-69e7-47f0-92af-6c0c08e64cb2,Potionseller,60
+2c2e9a0b-cae7-40e7-9f0c-26d13deb96d1,Harvester,400
+acf22d38-c3c6-4461-8cd4-92f80aec8bf1,Wheelbarrow,1500
+6311a5fa-8a01-42b6-828b-e9dc62e4f7c6,Scarecrow,80
+19e45f50-8e4d-4c16-9e13-3beb473715b9,Bard,60
+8f4d6831-f796-4bbe-b681-3bed18cfddc5,Squire,130
+10e7d506-2f85-42da-9f45-c0935229dcf1,Archer,40
+65225bcb-db8c-42d7-ab71-c7f8199e1e09,Priest,25
+7e72dc06-d29b-4420-82b1-9e022eab45aa,Knight,350
+f6434166-9ef4-4dd4-83af-3b991d99cee7,Catapult,300
+84cc2daa-9b57-4108-84fd-2f5465bb251c,The King,1250
+02e63eb6-a1eb-4c34-80f7-e0c33a2bd974,Sarissa,40
+f1336a63-fe02-410e-93d5-582788be64f4,Shield bearer,60
+c0c16c86-6f99-440e-9279-7a4aa6c3cbd4,Hoplite,100
+f27c9404-4d2e-4c30-94c9-c0c8fcd0f92e,Snake Archer,50
+a358721a-7086-4a2c-b027-2db952214b2e,Ballista,300
+6d89b150-3bd8-40b0-98eb-02ff66ee29a5,Minotaur,1150
+eaedc2bf-462a-4383-b74d-4224addd8660,Zeus,200
+a7765c3d-b154-4fee-9ce9-8fdb80a5700e,Headbutter,50
+dc1f85ed-ec91-40e2-a611-602a34673ae7,Ice Archer,50
+71515684-5af3-4e1a-88fa-a05c6fb3a995,Brawler,100
+3b783180-e117-45ff-933e-5a3094cc5113,Berserker,100
+7eff7df6-b26e-4f8e-a0f2-3e047d52d200,Valkyrie,150
+ac0741db-5734-4f60-aa61-59b4fbcca547,Jarl,800
+bcd1c815-9329-4f4e-876d-5a16c523b207,Longship,1400
+47006118-fff3-4c45-b299-a1e070d23af9,Peasant_gravel,25
+48a2e08a-64bb-457c-b186-957d39154577,Peasant,25
+9203eae1-3062-45a8-9c63-7f516b4a23db,BallistaDude,40
+418e995d-524a-440f-8a35-3112b85f3965,CannonDude,40
+285095fa-d893-4e77-8a4f-758e7fe6c495,HwachaDude,40
+ed36ab6e-c396-4272-ae65-bf852ff75fce,Snake,40
+9886f7ed-5e7d-4845-a2f1-01100fef60e6,DragonCarrier,80
+1a06b119-fdf8-4f75-9b8d-e384db2bca41,Thrower_WheelbarrowApple,70
+e95cd8ca-f2ca-489b-b69d-4afe63bc9e72,Pitchfork_WheelBarrow,150
+0751142d-5f06-40c1-944d-20e8fb22df41,VikingBoatRider,150
+4f497d6c-bab4-44cd-9f71-7f6dd57b5b8e,DragonCarrierFront,350
+8a142dd0-45a8-43a8-99b2-9d87c1518cc6,Traveller,170
+c0fcecb7-63e2-430c-b361-fa7cd3d89945,VikingBoatCarrier,300
+79346454-de59-4f63-9933-bb8e34308cd0,Crow,50
