@@ -2,7 +2,7 @@
 This is a mod for level sharing I made, it allows you to create and publish and play challenges in Sandbox mode in Totally Accurate Battle Simulator
 ### Installation Instructions
 * Download the Assembly-CSharp.dll file
-* Locate your TotallyAccurateBattlegrounds folder
+* Locate your TotallyAccurateBattleSimulator folder
 * Go to the TotallyAccurateBattleSimulator_Data folder within that one
 * Go to Managed
 * Replace the original games Assembly-CSharp.dll with the modded one you just downloaded (consider renaming the original to quickly change between modded and original by renaming the files.
