@@ -16,7 +16,10 @@ If you are satisfied with your unit setup, open up the level sharing UI, enter y
 ### Playing a level
 To play a level, make sure you are in sandbox mode, press the Get levels button, when the UI is expanded and active, then choose any one of the levels in the list that pops up.
 
+### Possessing a Unit
 
+Some people requested me to incorporate Unit Posession into my mod, since The_FernReaper made a mod that allows this and shared it on the discord, and it fits nicely with the unit creator, so I did just that.
+To possess a Unit press F while looking at a 
 
 ### Some other things
 * I would prefer it if you tried your level before posting it, to make sure the challenge is legitimate.
