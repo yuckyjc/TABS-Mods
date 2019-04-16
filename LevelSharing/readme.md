@@ -19,7 +19,7 @@ To play a level, make sure you are in sandbox mode, press the Get levels button,
 ### Possessing a Unit
 
 Some people requested me to incorporate Unit Posession into my mod, since The_FernReaper made a mod that allows this and shared it on the discord, and it fits nicely with the unit creator, so I did just that.
-To possess a Unit press F while looking at a 
+To possess a Unit press C while looking at it
 
 ### Some other things
 * I would prefer it if you tried your level before posting it, to make sure the challenge is legitimate.
