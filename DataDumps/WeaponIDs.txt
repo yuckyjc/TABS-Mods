@@ -92,7 +92,7 @@ BrawlerShield
 BrawlerAxe
 
 31
-Viking_axe
+Berserker_axe
 
 32
 ValkyrieSword
@@ -101,53 +101,59 @@ ValkyrieSword
 Jarl_Axe
 
 34
-Executioner_Axe
-
-35
-Mace_Spin
-
-36
-Bow_Artemis
-
-37
-Thrower_WheelBarrowApple
-
-38
-Oar
-
-39
-ShortBow
-
-40
-MonkStaff
-
-41
-BowFirework
-
-42
-Throw_Shuriken
-
-43
-Throw_Shuriken
-
-44
 Katana
 
-45
+35
+BowFirework
+
+36
+MonkStaff
+
+37
+Throw_Shuriken
+
+38
 CatapultHwacha
 
+39
+MonkeyKingStaff
+
+40
+FanSpear
+
+41
+SwordartistSword
+
+42
+Executioner_Axe
+
+43
+Mace_Spin
+
+44
+CheerStaff
+
+45
+shogunKatana
+
 46
-Bow_Balloon
+GiantKatana
 
 47
-Musket
+Sensei_Throw_Shuriken
 
 48
-GiantPunch
+TreeSword
 
 49
-GiantPunch
+Bow_Artemis
 
 50
-Minigun
+GiantPunch
+
+51
+Thrower_WheelBarrowApple
+
+52
+Oar
 

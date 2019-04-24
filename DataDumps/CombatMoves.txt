@@ -1,36 +1,84 @@
 0
-Halfling_Jump
+BlockSlow
 
 1
-Hay
+CrowWings
 
 2
 CrowWingsBig
 
 3
-Shield_Charge
+Dodge
 
 4
-Sarissa_Walk
+Fencer_Dodge
 
 5
-KnightCharge
+FireBreath
 
 6
-Headbutt
+GiantFootStomp
 
 7
-Jump_Charge
+Halfling_Jump
 
 8
-Wings
+Hay
 
 9
-SpinToWin_Mace
+Headbutt
 
 10
-CrowWings
+Jump_Berserker
 
 11
-BlockSlow
+Jump_BerserkerShort
+
+12
+Kick
+
+13
+KnightCharge
+
+14
+MinotaurCharge
+
+15
+MonkeyTail
+
+16
+Sarissa_Walk
+
+17
+Shogun_Dodge
+
+18
+SpinToWin
+
+19
+SpinToWin_Mace
+
+20
+SwordArtParry
+
+21
+wheelbarrowdragon
+
+22
+Wings
+
+23
+BalloonPack
+
+24
+BlockAlways
+
+25
+Jump_Thor
+
+26
+Jump_Wolverine
+
+27
+WallShield_Slam
 
